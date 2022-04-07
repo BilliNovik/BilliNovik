@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Viacheslav
 
-## I'm a Junior FrontEnd Developer from Ukraine 🇺🇸
+## I'm a Junior FrontEnd Developer from Ukraine
 - 💪 I like to write code
 - 😄 I love to learn English and watch English movies
 - 🥅 I am fast learning new things
