@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Header](https://github.com/BilliNovik/BilliNovik/blob/main/assets/header.jpg)](https://t.me/react1ru)
 
 <!--
 **BilliNovik/BilliNovik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
